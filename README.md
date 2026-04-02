@@ -9,7 +9,7 @@ Firmware downloads and release notes for the Chauvet Professional COLORado Solo 
 
 The COLORado Solo Pod E supports direct firmware updates using a USB storage device via the USB Type-C port.
 
-For detailed instructions, refer to the User Manual
+For detailed instructions, refer to the User Manual:
 
 [https://chauvetprofessional.com/product/FIXTURENAME/#downloads](https://chauvetprofessional.com/wp-content/uploads/2026/03/COLORado_Solo_Pod_E_UM_Rev1.pdf).
 
@@ -17,13 +17,11 @@ For detailed instructions, refer to the User Manual
 
 ## Latest Release
 
-### V1.1
-[Download Firmware V1.1](copy link here)
-_In [] brackets above, this selects the text shown i the link. Change to version number._
-_Go-to Firmware github page>Right-click RAW in upper-right corner>select copy link Address>Add that link above inparenthesys._
+### V1.260330
+[Download Firmware V1.260330](https://github.com/Chauvet-Pro/COLORADOSOLOPODE/blob/920ab9b04a8a4ddcf5b0239306933e4508e9add2/Firmware/V1.260330.zip)
 
 **Updates:**
-- Populate update note here
+- Initial release software
 
 ---
 
