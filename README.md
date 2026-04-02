@@ -27,8 +27,8 @@ For detailed instructions, refer to the User Manual:
 
 ## Previous Releases
 
-### V1.0
-[Download Firmware V1.0](https://github.com/Chauvet-Pro/AMHAZESTADIUM2XIP/raw/fe2bdff12b96c43df89211d273fa2e9d692f2450/Firmware/V1.zip)
+### 
+
 
 **Notes:**
-- Initial software release  
+- N/A
