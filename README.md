@@ -1,7 +1,10 @@
 # COLORado Solo Pod E  
-_Last Updated: April 1, 2026_
+_Last Updated: October 8, 2026_
 
 Firmware downloads and release notes for the Chauvet Professional COLORado Solo Pod E.
+
+> [!NOTE]
+> **NFC support is coming soon.** NFC functionality for use with the UNRIVAL app will arrive in a new firmware version. The current release (V1.260330) does not include it.
 
 ---
 
